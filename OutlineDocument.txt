@@ -1,0 +1,17 @@
+﻿KtC 2026 Game Jam
+
+Fundamentals:
+Theme is Dead Tech.
+2D game – side scroller
+Physics-based
+
+Split of work:
+Kess – programming
+John – art, music
+
+Story/Flavor:
+You’re on a quest to find something hidden in the rubble!  What is it that you will find, and how quickly will you do so?
+
+Gameplay Loop:
+Spawn in with an objective to find a Quest Item.
+Crane Game/Wrecking Ball to smash through things ala Katamari.
